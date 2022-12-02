@@ -66,3 +66,17 @@ title-sm {
   border-radius: 6px;
   color: #3c3dbf;
 }
+.text-ungu {
+  color: #3c3dbf;
+}
+.button {
+  border: none;
+  color: #FFF;
+  border-radius: 8px;
+}
+.btn-ungu {
+  background: #3c3dbf;
+}
+.btn-pink {
+  background: #FF3666;
+}
